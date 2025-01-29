@@ -1,4 +1,4 @@
-# Welcome to the ACM 2025 Repo!
+# Welcome to the William & Mary ACM 2025 Repo!
 
 Here you can find the code files from our interactive demos.
 
